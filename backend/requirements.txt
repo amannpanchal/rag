@@ -1,0 +1,40 @@
+# â”€â”€ Core â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+fastapi      
+uvicorn[standard]       
+pydantic       
+pydantic-settings      
+
+# â”€â”€ Google Gemini â”€â”€â”€â”€â”€â”€â”€
+google-generativeai       
+
+# â”€â”€ Database â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+sqlalchemy[asyncio]       
+asyncpg      
+alembic       
+
+# â”€â”€ Multi-Format & OCR 
+paddlepaddle       
+paddleocr      
+pytesseract      
+Pillow      
+opencv-python-headless       
+python-docx     
+python-pptx     
+openpyxl      
+pandas      
+markdown       
+
+# â”€â”€ Qdrant â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+qdrant-client      
+
+# â”€â”€ Document Processing (Phase 2+) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+pymupdf     
+
+# â”€â”€ LangGraph / LangChain (Phase 2+) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+langgraph      
+langchain-google-genai     
+langchain-community 
+python-multipart  
+
+
+
